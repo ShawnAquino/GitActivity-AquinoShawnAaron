@@ -13,3 +13,11 @@ def education ():
 
 education()
 
+def hobbies ():
+    print ("Hobbies: Photography")
+    print ("        "" Cinematography")
+    print ("        "" Music Production")
+    print ("        "" Post Production")
+    print ("        "" Watching Kdrama")
+
+hobbies()
